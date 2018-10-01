@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>PIXNIO-261017-4435x2937.jpeg</filename>
+	<path>/home/faizan/code/object-detection/images/test/PIXNIO-261017-4435x2937.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4435</width>
+		<height>2937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>65</ymin>
+			<xmax>4434</xmax>
+			<ymax>2937</ymax>
+		</bndbox>
+	</object>
+</annotation>

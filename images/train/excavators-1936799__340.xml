@@ -1,0 +1,26 @@
+<annotation>
+	<folder>excavators</folder>
+	<filename>excavators-1936799__340.jpg</filename>
+	<path>/home/faizan/code/object-detection/images/train/excavators-1936799__340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>39</ymin>
+			<xmax>507</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

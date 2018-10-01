@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>mining-excavator-1736289__340.jpg</filename>
+	<path>/home/faizan/code/object-detection/images/test/mining-excavator-1736289__340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>123</ymin>
+			<xmax>467</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>
